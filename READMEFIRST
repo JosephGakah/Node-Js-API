@@ -1,0 +1,16 @@
+Create a New Folder
+Initialiseit with 
+npm init
+ 
+install the dependencies 
+express body-parser
+npm i express body-parser --save
+
+you paste the files in to the folder 
+run the simple API by 
+
+on Terminal
+npm run server\
+
+
+your server will be started
